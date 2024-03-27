@@ -1,0 +1,501 @@
+,Hotel Name,Address,Rating (5),Price (2)
+0,The G.,"GT RoadM-Block,Connaught Place, Central Delhi",4.3,2000
+1,My Bar Headquarters,"HC Place, Central Delhi",4.0,1500
+2,Berco's,"BC Place, Central Delhi",4.3,1300
+3,The Embassy,"EC Place, Central Delhi",4.1,2400
+4,Sandoz,"SC Place, Central Delhi",4.0,1400
+5,Unplugged Courtyard,"CC Place, Central Delhi",4.0,2500
+6,Tamasha,"TC Place, Central Delhi",4.2,2000
+7,Yeti - The Himalayan Kitchen,"KT Colonnade,Connaught Place, Central Delhi",4.3,1500
+8,38 Barracks,"BM Place, Central Delhi",4.3,2700
+9,Subway,"SC Place, Central Delhi",5.0,500
+10,The Junkyard Cafe,"CC Place, Central Delhi",4.1,2100
+11,Kill The Bill,"BC Place, Central Delhi",4.3,1300
+12,Local,"LS House,Connaught Place, Central Delhi",4.0,2000
+13,Desi Villagio - Village Theme Restro Bar,"BC Place, Central Delhi",4.1,1200
+14,Gin & Juliet,"JF Place, Central Delhi",4.0,1100
+15,Barbeque Nation,"NC Place, Central Delhi",4.3,2300
+16,Farzi Cafe,"CC Place, Central Delhi",4.1,2000
+17,Mughal-,"ME Place, Central Delhi",5.0,1000
+18,Zaffran,"ZH Palace Heights,Connaught Place, Central Delhi",4.4,2600
+19,Ardor 2.1 Restaurant and Lounge,"LC Place, Central Delhi",4.1,2000
+20,The Host,"HF Place, Central Delhi",4.2,1800
+21,United Coffee House,"HC Place, Central Delhi",4.4,4000
+22,Taco Bell,"BC Place, Central Delhi",4.1,500
+23,Biryani Blues,"BS House,Connaught Place, Central Delhi",4.2,700
+24,Wok in the Clouds,"CC Place, Central Delhi",4.3,2200
+25,Excuse Me Boss,"BF Place, Central Delhi",4.0,2000
+26,Castle's Barbeque,"BC Place, Central Delhi",4.0,2000
+27,The Imperial Cafe,"CC Place, Central Delhi",4.4,2600
+28,Q,"QB Place, Central Delhi",4.2,2100
+29,The Art of Dumpling,"DC Place, Central Delhi",4.4,3800
+30,Openhouse Cafe,"CC Place, Central Delhi",4.1,2000
+31,Subway,"SM Place, Central Delhi",4.3,500
+32,Caffe Tonino,"TP Plaza,Connaught Place, Central Delhi",4.4,2000
+33,Chili's American Grill and Bar,"BM Place, Central Delhi",4.3,2000
+34,Tea Lounge,"LC Inn Gurgaon,Civil Lines, Gurgaon",4.0,1400
+35,Connaught Club House,"HC Place, Central Delhi",4.2,1800
+36,Master Of Malts,"MS House,Connaught Place, Central Delhi",4.1,2500
+37,Ranisa,"RC Place, Central Delhi",4.3,800
+38,Pizza Hut,HJ Central Delhi,4.5,800
+39,Bagundi,"BM Place, Central Delhi",4.2,1200
+40,Chido,"CC Place, Central Delhi",4.2,1800
+41,The Chai Story,"SC Place, Central Delhi",4.2,700
+42,Teddy Boy,"BC Place, Central Delhi",4.2,2800
+43,Naivedyam,"NC Place, Central Delhi",4.1,600
+44,Burger Singh - Big Punjabi Burgers,"BC Place, Central Delhi",4.2,400
+45,Boisson The Blend Company,"CC Place, Central Delhi",4.2,500
+46,Out Of The Box Courtyard,"CC Place, Central Delhi",4.1,2200
+47,Dhaba Estd 1,"19 DelhiConnaught Place, Central Delhi",4.0,2000
+48,Cafe Hawkers,"HC Place, Central Delhi",4.2,1600
+49,Handi Chhadeyan Di,"DC Place, Central Delhi",4.3,800
+50,Gola Sizzlers,"SC Place, Central Delhi",4.2,1100
+51,Ghoomar Traditional Thali Restaurant,"RC Place, Central Delhi",4.1,1200
+52,Ministry Of Beer,"BM Place, Central Delhi",4.0,3000
+53,A,"AG Park Hotel,Connaught Place, Central Delhi",4.0,4000
+54,A,"AQ Park Hotel,Connaught Place, Central Delhi",4.0,4500
+55,Imperfecto,IJ Central Delhi,4.1,2500
+56,Cafe Delhi Heights,HJ Central Delhi,4.3,1300
+57,Dunkin' Donuts,"DC Place, Central Delhi",4.2,400
+58,The Darzi Bar & Kitchen,"KC Place, Central Delhi",4.1,1800
+59,CP 24 Kitchen And Bar By Maharani,"MC Place, Central Delhi",4.0,1800
+60,Baluchi,"BT Lalit New Delhi,Connaught Place, Central Delhi",4.4,2400
+61,O,"OK Lalit New Delhi,Connaught Place, Central Delhi",4.4,5200
+62,The Lalit Boulangerie,"BT Lalit New Delhi,Connaught Place, Central Delhi",4.1,1000
+63,Sorrento,"SS La Eros New Delhi,Janpath, Central Delhi",4.4,3600
+64,Grappa,"GS La Eros New Delhi,Janpath, Central Delhi",4.6,3600
+65,Shang Palace,"PS La Eros New Delhi,Janpath, Central Delhi",4.5,4000
+66,"Chutney, Bar + Tandoor","TT Metropolitan Hotel,Connaught Place, Central Delhi",4.0,3500
+67,Bo Tai - Switch,"SS La Eros New Delhi,Janpath, Central Delhi",4.1,2500
+68,Zing,"ZT Metropolitan Hotel,Connaught Place, Central Delhi",4.0,3500
+69,Eau de Monsoon,"ML Meridien New Delhi,Janpath, Central Delhi",4.5,4000
+70,The One,"OL Meridien New Delhi,Janpath, Central Delhi",4.3,5000
+71,Nero,"NL Meridien New Delhi,Janpath, Central Delhi",4.6,4000
+72,Le Belvedere,"BL Meridien New Delhi,Janpath, Central Delhi",4.4,5000
+73,Longitude,"LL Meridien New Delhi,Janpath, Central Delhi",4.1,2500
+74,Thalassery Restaurant,RP Central Delhi,4.0,900
+75,Ichiban,"IP Road, Central Delhi",4.4,800
+76,Rustom's,RI Central Delhi,4.6,2200
+77,Dilli Gate,GD Central Delhi,4.5,600
+78,Chor Bizarre,"BP Road, Central Delhi",4.5,3000
+79,Pindi,"PP Road, Central Delhi",4.4,2300
+80,Capten Milkshakes,"MC Chowk, Central Delhi",5.0,500
+81,Cafe Chill'm,"CK Nagar, North Delhi",4.2,1300
+82,Lakhori - Haveli Dharampura,"DC Chowk, Central Delhi",4.3,3000
+83,House of Ming,"MT Taj Mahal,Mansingh Road, Central Delhi",4.5,5000
+84,Capten Milkshakes,"MC Chowk, Central Delhi",4.5,500
+85,Varq,"VT Taj Mahal,Mansingh Road, Central Delhi",4.3,4500
+86,Southern Masala,"MK Bagh, Central Delhi",4.1,1100
+87,Pizza Hut,"HK Bagh, Central Delhi",4.5,800
+88,Aura,"AT Claridges,Aurangzeb Road, Central Delhi",4.9,1500
+89,Tempting Xpress,"XK Bagh, Central Delhi",5.0,500
+90,Yellow Brick Road,"RA Market, Central Delhi",4.4,2200
+91,Subway,"SR Nagar, West Delhi",5.0,500
+92,Sly Granny,"GK Market, Central Delhi",4.5,1800
+93,Rule The Rolls,"RK Market, Central Delhi",4.7,600
+94,High On Desserts,"DR Nagar, West Delhi",4.3,500
+95,Mamagoto,"MK Market, Central Delhi",4.5,1500
+96,Wok in the Clouds,"CK Market, Central Delhi",4.2,2200
+97,In,"IS BarAmbassador,Khan Market, Central Delhi",4.2,4000
+98,Cafe Delhi Heights,"HK Market, Central Delhi",4.3,1300
+99,Jade,"JT Claridges,Aurangzeb Road, Central Delhi",4.1,2500
+100,Soda,"SB Market, Central Delhi",4.3,2000
+101,Anglow,"AK Market, Central Delhi",4.2,1600
+102,Fat Lulu's,"LK Market, Central Delhi",4.2,1000
+103,Kaarobaar,"KR Nagar, West Delhi",4.3,700
+104,Pikkle,"PR Nagar, West Delhi",4.0,1700
+105,Out Of The Box,"BK Market, Central Delhi",4.1,2200
+106,Gola Sizzlers,"SK Market, Central Delhi",4.0,1100
+107,"Choko laKhan Market, Central Delhi₹ 800 for 2 (approx) | Desserts, Beverages",,4.0,800
+108,Oh! Pind,"PK Bagh, Central Delhi",4.0,900
+109,S,"SA Nagar, Central Delhi",4.3,3000
+110,Subway,"SP Nagar, West Delhi",5.0,500
+111,Lanterns Kitchen & Bar,"BR Bhawan,Rajendra Place, West Delhi",4.1,2000
+112,Mughal Mahal,"MR Place, West Delhi",4.3,1900
+113,Bake Club,"CE Patel Nagar, West Delhi",5.0,500
+114,Naivedyam,"NE Patel Nagar, West Delhi",4.3,600
+115,Sana-,"SD Marg Shopping Complex,Chanakyapuri, South Delhi",4.4,2500
+116,Lazeez Affaire,"AM Marg Shopping Complex,Chanakyapuri, South Delhi",4.3,2600
+117,Elan,"ET Lodhi,Lodhi Road, South Delhi",4.3,4000
+118,M,"MK Chanakya,Chanakyapuri, South Delhi",4.5,2500
+119,Gyan's Restaurant,"RE Patel Nagar, West Delhi",4.2,800
+120,Perbacco,"PT Lodhi,Lodhi Road, South Delhi",4.0,3000
+121,Boa Village,"VT Exchange Store Building,Civil Lines, North Delhi",4.3,2500
+122,Le Winkies,"WE Patel Nagar, West Delhi",4.0,600
+123,Qbic Cafe,"CE Patel Nagar, West Delhi",4.2,1200
+124,Guppy,"GL Colony, South Delhi",4.3,2500
+125,Ping's Cafe Orient,"OL Colony, South Delhi",4.4,1800
+126,Jamun,"JL Colony, South Delhi",4.2,1200
+127,Subway,"SK Nagar, North Delhi",4.4,500
+128,La Pino'z Pizza,"PL Nagar, East Delhi",4.4,500
+129,Pizza Paradise,"PW Patel Nagar, West Delhi",5.0,600
+130,Rom's Pizza,"PL Nagar, East Delhi",4.5,500
+131,Mag 'N' Cheese,"CK Nagar, North Delhi",4.5,800
+132,Chalte Firte Momos & Special Food,"FK Nagar, North Delhi",4.0,500
+133,Cafe Bugs Bunny,"BG Colony, East Delhi",5.0,700
+134,Bar,"BS Nagar, North Delhi",4.8,800
+135,Blackmail Lounge,"LK Nagar, North Delhi",4.4,1500
+136,Pandit Ji Bhalle Wale,"WW Patel Nagar, West Delhi",4.0,300
+137,Arabian Delites,"DD Colony, South Delhi",5.0,600
+138,The Qube,"QT Leela Palace,Chanakyapuri, South Delhi",4.6,3500
+139,The Laalten,"LK Nagar, North Delhi",4.1,1800
+140,Tikka Junction,"JK Nagar, North Delhi",4.0,1500
+141,Jamavar,"JT Leela Palace,Chanakyapuri, South Delhi",4.3,5500
+142,Spicy Duck,"DT Palace New Delhi,Chanakyapuri, South Delhi",4.3,4000
+143,Orient Express,"ET Palace New Delhi,Chanakyapuri, South Delhi",4.4,4500
+144,Pizza Pirates,"PW Patel Nagar, West Delhi",4.0,500
+145,Subway,"SD South Square Mall,Sarojini Nagar, South Delhi",4.8,500
+146,Le Cirque,"CT Leela Palace,Chanakyapuri, South Delhi",4.4,6000
+147,Megu,"MT Leela Palace,Chanakyapuri, South Delhi",4.3,5000
+148,Pizza Hut,"HV Mall,Laxmi Nagar, East Delhi",4.3,800
+149,Gola Sizzlers,"SP Vihar, East Delhi",4.5,1100
+150,Kev's Cafe,"CS Niketan, South Delhi",4.9,300
+151,The Yellow Chilli,"CV Mall,Laxmi Nagar, East Delhi",4.1,1100
+152,Pizza Nostra,"NG Nagar, North Delhi",5.0,400
+153,One,"O8 CommuneCivil Lines, North Delhi",4.0,2500
+154,Burger Singh - Big Punjabi Burgers,"BK Nagar, East Delhi",4.0,400
+155,Wood Box Cafe,"CS Niketan, South Delhi",4.4,1000
+156,Moti Mahal Delux,"DS Extension - 2, South Delhi",4.3,1500
+157,Chowringhee,"CS Niketan, South Delhi",4.4,600
+158,Khanna Tandoori Junction,"JK Nagar, East Delhi",4.6,600
+159,No. 1 Uncles Parantha,"PS Extension - 1, South Delhi",4.0,400
+160,The Crypto Door,"DV Nagar, North Delhi",4.6,1000
+161,Sandoz,"SA Vihar Phase - 2, North Delhi",4.1,1400
+162,Crazy Kitchen Rooftop & Lounge,"LS Niketan, South Delhi",4.3,1200
+163,Cafe Emoji's,"ES Niketan, South Delhi",4.2,500
+164,The Salt Cafe Kitchen & Bar,"BP Vihar, East Delhi",4.3,2500
+165,Cafe Diaries,"DS Niketan, South Delhi",4.4,1200
+166,Wow! Momo,"MP of Delhi,Dhaula Kuan, West Delhi",4.5,400
+167,Indus Flavour- Proudly Vegetarian,"VH Lane, North Delhi",4.4,1000
+168,Bhalla King,"KL Nagar - 2, South Delhi",5.0,300
+169,Bottle House,"HS Niketan, South Delhi",4.1,600
+170,High Bae,"BD Kuan, West Delhi",4.3,1600
+171,Berco's,"BP Vihar, East Delhi",4.1,1300
+172,Wood Box Cafe,"CV Nagar, North Delhi",4.3,1200
+173,Sandoz,"SL Nagar - 3, South Delhi",4.1,1400
+174,Subway,"SV Nagar, North Delhi",4.4,500
+175,Breeckyard Cafe And Lounge,"LM Bagh, South Delhi",4.1,1000
+176,The Sky High,"HA Plaza Mall,Khel Gaon, South Delhi",4.1,1700
+177,Jack 'n' Chill,"CV Nagar, North Delhi",4.3,1000
+178,Amritsari Naan And Kulcha,"KR Nagar, West Delhi",4.8,400
+179,Pizza Hut,"HH Lane, North Delhi",4.7,800
+180,The Turkey Project,"PD Complex,Defence Colony, South Delhi",4.7,1400
+181,Phonebooth Cafe,"CV Nagar, North Delhi",4.4,1200
+182,Spezia Bistro,"BH Lane, North Delhi",4.5,1600
+183,Kabul Delhi,"DL Nagar - 2, South Delhi",4.1,600
+184,For God's Cake,"CH Lane, North Delhi",4.5,500
+185,The Firangi Island,"IK Nagar, West Delhi",4.1,2700
+186,La Nonna Pizzeria,"PH Lane, North Delhi",4.1,700
+187,Telegram - The Postal Cafe and Bar,"BV Nagar, North Delhi",4.0,900
+188,Waffle Crush,"CK Nagar, East Delhi",4.6,300
+189,Paparizza,"PH Lane, North Delhi",4.3,900
+190,736 AD Cafe & Bar,"BV Nagar, North Delhi",4.2,1800
+191,T,"TK Oriental GrillHyatt Regency Delhi,Bhikaji Cama Place, South Delhi",4.4,3400
+192,The Pepper Tales,"TM Nagar, West Delhi",4.3,1000
+193,By The Bay,"BH Lane, North Delhi",4.0,1500
+194,Cilantro Leaf,"LH Lane, North Delhi",4.0,600
+195,The China Kitchen,"KH Regency Delhi,Bhikaji Cama Place, South Delhi",4.4,4500
+196,Limitless,"LA Plaza Mall,Khel Gaon, South Delhi",4.2,1800
+197,1 Oak Cafe & Bar,"BD Colony, South Delhi",4.2,1600
+198,Breadz,"BM Vihar Phase - 2, East Delhi",5.0,400
+199,Dilli Flavours,"FA Vihar Phase - 1, North Delhi",5.0,800
+200,Seoul Restaurant,"RA Plaza Mall,Khel Gaon, South Delhi",4.7,3000
+201,Pizza Hut,"HA Plaza Mall,Khel Gaon, South Delhi",4.8,800
+202,Veg Gulati,"GG Park, South Delhi",4.3,1200
+203,Aangan Reloaded,"RH Regency Delhi,Bhikaji Cama Place, South Delhi",4.9,4200
+204,Housefull Cafe Lounge,"LH Lane, North Delhi",4.0,2200
+205,Ada'e Haandi's,"HM Bagh, South Delhi",4.3,800
+206,Kofuku,"KA Plaza Mall,Khel Gaon, South Delhi",4.4,1200
+207,La Piazza,"PH Regency Delhi,Bhikaji Cama Place, South Delhi",4.5,4000
+208,Kaur's Cafe,"CK Nagar, West Delhi",5.0,200
+209,Only Bar,"BB Cama Place, South Delhi",4.1,1200
+210,Pizza Hut,"HL Nagar - 2, South Delhi",4.1,800
+211,Dunkin' Donuts,"DM Mall,Kirti Nagar, West Delhi",4.3,400
+212,Dunkin' Donuts,"DM Mall,Kirti Nagar, West Delhi",4.3,400
+213,4th Street Cafe,"CP Vihar, East Delhi",4.6,700
+214,Polo Lounge,"LH Regency Delhi,Bhikaji Cama Place, South Delhi",4.3,3200
+215,Pind Balluchi,"BL Nagar - 2, South Delhi",4.0,1400
+216,Cafe,"CH Regency Delhi,Bhikaji Cama Place, South Delhi",4.1,4000
+217,Pizza Hut,"HL Shopping Complex,IP Extension, East Delhi",5.0,800
+218,Taco Bell,"BL Nagar - 2, South Delhi",4.0,500
+219,Te Amo,"AA Plaza Mall,Khel Gaon, South Delhi",4.0,2200
+220,The Waffle Co.,CN West Delhi,5.0,400
+221,Wicked Waffle,"WP Vihar, East Delhi",4.0,400
+222,Unwind,"UA Plaza Mall,Khel Gaon, South Delhi",4.0,1600
+223,Omelette Hut,"HL Nagar - 4, South Delhi",5.0,400
+224,Cafe Delhi Heights,"HS Courtyard,RK Puram, South Delhi",4.4,1300
+225,Coffee Bond,"BS Extension - 2, South Delhi",4.4,1000
+226,Laidback Cafe,"CS Courtyard,RK Puram, South Delhi",4.5,1800
+227,D,"DA WaffleMayur Vihar Phase - 2, East Delhi",5.0,400
+228,Moustache Coffee,"CM Vihar Phase - 2, East Delhi",5.0,600
+229,Ziu,"ZS Courtyard,RK Puram, South Delhi",4.4,2500
+230,MOC - The American Restaurant,"RM Vihar Phase - 1, East Delhi",4.0,400
+231,Pizza Vizza,"VM Vihar Phase - 1, East Delhi",4.0,400
+232,Desi Zaika,ZS South Delhi,5.0,1000
+233,Supa's Restaurant,"RK Nagar, West Delhi",4.1,1200
+234,Theos,"TS Courtyard,RK Puram, South Delhi",4.2,700
+235,Sumo Restaurant,"RM ka Tila, North Delhi",4.4,700
+236,Little Seoul,SS South Delhi,5.0,1400
+237,Pizza Hut,"HA Vihar Phase - 2, North Delhi",4.3,800
+238,Anardana Modern Kitchen & Bar,BK East Delhi,4.3,1700
+239,K,"KO Nagar - 4, South Delhi",4.3,1000
+240,Spice Court,"CP Payal,Naraina, West Delhi",4.0,1100
+241,The Piano Man Jazz Club,"CS Enclave Market,Safdarjung, South Delhi",4.3,2500
+242,High On Burgers,"BL Nagar - 4, South Delhi",4.5,300
+243,Breakin' Brew,"BA Vihar, East Delhi",4.5,900
+244,Cafe Junk,"JM Vihar Phase - 2, East Delhi",4.3,500
+245,The Clay Oven,"OH Park Residency,Green Park, South Delhi",4.4,2000
+246,Talli Station,SN West Delhi,4.1,1500
+247,Madrina,"MA Vihar Phase - 2, North Delhi",4.0,1300
+248,Bikaner Kesarvala,"KA Vihar Phase - 1, North Delhi",4.0,500
+249,Greenr Cafe,"CN Block Market,Greater Kailash - 1, South Delhi",4.0,800
+250,Nutriobox,NK East Delhi,4.4,700
+251,Pizza Hut,"HK Nagar, West Delhi",5.0,800
+252,Bar,"BS Mega Mall,Shahdara, East Delhi",5.0,800
+253,Sardar A Pure Meat Shop,"SI Extension, East Delhi",5.0,600
+254,Bell Pepperz,"PC Centre,Ashok Vihar Phase - 2, North Delhi",4.4,1200
+255,Maestro A Restro Cafe,"CD Cinema Complex,Ashok Vihar Phase - 1, North Delhi",4.3,1300
+256,Unique Pastry Shop,"SI Extension, East Delhi",4.2,600
+257,Tete-a-,"TT Kailash - 1, South Delhi",4.5,600
+258,Goosebumps,GK East Delhi,4.0,400
+259,Gung The Palace,"PG Park, South Delhi",4.5,3000
+260,Pizza Hut,"HA Fun City Mall,Shahdara, East Delhi",4.4,800
+261,Bamboo Hut,HS South Delhi,4.3,1000
+262,Drums of Heaven,"HG Park, South Delhi",4.1,1800
+263,Maini's Green Leaf,"LU One Mall,Shahdara, East Delhi",4.2,1500
+264,Dasaprakash,"DA Vihar Phase - 2, North Delhi",4.1,800
+265,Red Chilli,"CU Cinema Complex,Green Park, South Delhi",4.0,2000
+266,Raasta,"RG Park, South Delhi",4.3,2000
+267,Nagaland's Kitchen,"KU Cinema Complex,Green Park, South Delhi",4.1,2200
+268,Cakes And More,"MI Extension, East Delhi",4.0,400
+269,Smelling Salts,"SA Vihar Phase - 2, North Delhi",4.4,1500
+270,Laidback Cafe,"CG Kailash - 1, South Delhi",4.3,3000
+271,Clay 1 Grill,"GK Nagar, West Delhi",4.1,1600
+272,Bokan,"BE of Kailash, South Delhi",4.1,2100
+273,Bread and More,"MG Kailash - 1, South Delhi",4.2,1000
+274,Godaam by Zaika Bazaar,"BP Complex,Karkardooma, East Delhi",4.0,1300
+275,Otik Cake Shop,"SM Town 2, North Delhi",5.0,500
+276,The Dessart gallery by Veg Gulati,"GG Park, South Delhi",4.2,500
+277,Hashtag Foods,FK East Delhi,4.4,500
+278,London Street,"SA Mega Mall,Shahdara, East Delhi",4.1,1400
+279,Cafe Bro,"BA Vihar Phase - 2, North Delhi",4.2,1000
+280,Pizza Hut,"HS City Mall,Mayur Vihar Phase - 1, East Delhi",4.5,800
+281,Dilli 3,"32 Leela Ambience Convention Hotel,Shahdara, East Delhi",4.5,4500
+282,Punjabi Joint,"JR Nagar, West Delhi",5.0,900
+283,Le Chef,"CC River Mall,Shahdara, East Delhi",4.2,1000
+284,Flirty Momo's,"MR Nagar, West Delhi",5.0,500
+285,Platinum Lounge,"LS City Mall,Mayur Vihar Phase - 1, East Delhi",4.1,1800
+286,Cafe Knosh,"KT Leela Ambience Convention Hotel,Shahdara, East Delhi",4.3,3000
+287,Suruchi,"SK Bagh, Central Delhi",4.3,1100
+288,G2 Cafe,CK East Delhi,4.2,1600
+289,Anupama Sweet,"SK Colony, South Delhi",5.0,800
+290,Square Pizzeria,"PA Vihar, East Delhi",5.0,800
+291,Big Fat Sandwich,"SH Khas, South Delhi",4.2,1000
+292,Storm Reloaded,"RE of Kailash, South Delhi",4.2,1800
+293,Saleem's Restaurant,"RK Colony, South Delhi",4.4,800
+294,Club Cuba,"CT Leela Ambience Convention Hotel,Shahdara, East Delhi",4.1,3000
+295,Saleem's Fine Dine,"DK Colony, South Delhi",4.3,1200
+296,Giani,"GM Town 2, North Delhi",4.0,400
+297,Fat,"FJ Cafe & MarketKailash Colony, South Delhi",4.2,2200
+298,Cafe 2,"27 Colony, South Delhi",4.2,1700
+299,Infinity,"IC Plaza,Mayur Vihar Phase - 1, East Delhi",4.2,3600
+300,Naivedyam,"NH Khas Village, South Delhi",4.2,600
+301,MWB Foody Bells,"BR Nagar, West Delhi",4.3,600
+302,Konfidential Lounge & Bar,"BK Colony, South Delhi",4.2,600
+303,Auro Kitchen & Bar,"BD Shopping Complex,Hauz Khas, South Delhi",4.2,2200
+304,Summer House Cafe,"CD Shopping Complex,Hauz Khas, South Delhi",4.2,2800
+305,Barsoom,"BH Khas Village, South Delhi",4.1,1400
+306,Wow! Momo,"MH Khas Village, South Delhi",4.1,400
+307,HKV Bar Exchange,"EH Khas Village, South Delhi",4.1,1300
+308,Golden Fiesta,"FE of Kailash, South Delhi",4.0,1200
+309,Cafe on 3,"3H Inn,Mayur Vihar Phase - 1, East Delhi",4.1,3000
+310,Deli,"DB Cafe & DelicatessenCommunity Centre - New Friends Colony,New Friends Colony, South Delhi",4.4,1000
+311,The Rehab Gastropub,"GH Khas Village, South Delhi",4.1,2500
+312,Cosy Restaurant,"RH Khas, South Delhi",4.1,1100
+313,Garden House Cafe And Health Kitchen,"KS Jat, South Delhi",4.5,1400
+314,Game of Momos,"MR Nagar, West Delhi",4.4,500
+315,Hale And Hearty,"HH Khas, South Delhi",4.4,1500
+316,Mad Over Donuts,"DG Kailash - 1, South Delhi",4.4,500
+317,Barbeque Nation,"NC Centre - New Friends Colony,New Friends Colony, South Delhi",4.2,1800
+318,Yaara Da Chaska,"CV Vihar, East Delhi",4.6,900
+319,Gastronomica Kitchen & Bar,"BG Kailash - 1, South Delhi",4.3,2200
+320,Masala Incorporated,"IS Jat, South Delhi",4.2,900
+321,Bakeburry,"BH Khas, South Delhi",4.2,1400
+322,Cocoberry,"CG Kailash - 1, South Delhi",4.9,400
+323,Chaskaa,"CA Vihar, East Delhi",4.1,900
+324,Sampan,"ST Suryaa New Delhi,New Friends Colony, South Delhi",4.3,3500
+325,Sandoz,"SC Tower,Nehru Place, South Delhi",4.1,1400
+326,Elation,"EG Kailash - 1, South Delhi",4.2,2800
+327,Fio Cookhouse and Bar,"BE Food Mall,Nehru Place, South Delhi",4.4,2100
+328,Dunkin' Donuts,"DE Food Mall,Nehru Place, South Delhi",4.4,400
+329,The Irish House,"HE Food Mall,Nehru Place, South Delhi",4.3,2000
+330,Berco's,"BR Garden, West Delhi",4.3,1300
+331,United Coffee House Rewind,"RE Food Mall,Nehru Place, South Delhi",4.3,2200
+332,Tasim,"TR Garden, West Delhi",4.3,1100
+333,Empress of China,"CE Hotel,Nehru Place, South Delhi",4.4,3000
+334,The Asian Tuk Tuk,"TE Corporate Tower,Nehru Place, South Delhi",4.5,2300
+335,Dhaba Estd 1,"19 DelhiEpicuria Food Mall,Nehru Place, South Delhi",4.1,2000
+336,Royal China,"CE Corporate Tower,Nehru Place, South Delhi",4.4,2700
+337,Taste Drive,"DR Garden, West Delhi",5.0,300
+338,The Flying Saucer,"SE Food Mall,Nehru Place, South Delhi",4.1,2800
+339,Wah Ji Wah,WS East Delhi,4.5,600
+340,Baa Bistro,"BM Vihar Phase - 1, East Delhi",4.3,800
+341,Giani,"GP Bagh, West Delhi",5.0,400
+342,Hunger Nation,"NT Paragon Mall,Rajouri Garden, West Delhi",5.0,500
+343,Nukkad Cafe & Bar,"BS Market,SDA, South Delhi",4.1,1500
+344,Nimtho,"NG Kailash - 1, South Delhi",4.3,1200
+345,Greenr Cafe,"CV Vihar, South Delhi",4.6,800
+346,Grillz & Gravy,"GP Bagh, West Delhi",5.0,1000
+347,Helter Skelter,"SS Market,SDA, South Delhi",4.2,1400
+348,Miss Nora,"NR Cube Monad Mall,Rajouri Garden, West Delhi",4.4,1600
+349,Sandoz,"SR Garden, West Delhi",4.3,1400
+350,Only Bar,"BN Place, South Delhi",4.4,1000
+351,Cafe Delhi Heights,"HR Garden, West Delhi",4.4,1300
+352,King Live At Breath,"BP Bagh, West Delhi",4.7,200
+353,Gola Sizzlers,"SB Dutta Market,Rajouri Garden, West Delhi",4.0,1100
+354,Cafe Sandoz,"SS Market,SDA, South Delhi",4.2,1400
+355,Pind Balluchi,"BP Tower,Netaji Subhash Place, North Delhi",4.0,1400
+356,IKK Panjab,"PB Dutta Market,Rajouri Garden, West Delhi",4.3,1000
+357,Mad Over Donuts,"DP Mall,Sahibabad, Ghaziabad",4.9,500
+358,Otik Cake Shop,"SR Garden, West Delhi",4.2,500
+359,Pizza Hut,"HR Garden, West Delhi",4.2,800
+360,Heartbeat,"HR Garden, West Delhi",4.6,1400
+361,The Chocolate Room,"RV Vihar, South Delhi",4.4,800
+362,What A Comic Show,"SS Market,SDA, South Delhi",4.0,1500
+363,The Blue Parrot Cafe,"CT Orion Plaza,Kalkaji, South Delhi",4.5,1500
+364,Jazbaa Lounge and Bar,"BR Garden, West Delhi",4.1,2500
+365,Cafe Tesu,"TE Farms,Aurobindo Marg, South Delhi",4.2,1500
+366,Subs N Shakes,"SV Prime Plaza,Shalimar Bagh, North Delhi",4.7,400
+367,Pinch of Spice,"SR Garden, West Delhi",4.4,1900
+368,Dada Ji Di Punjabi Rasoi,"RS Bagh, North Delhi",4.0,800
+369,Lord of the Drinks,"DR Garden, West Delhi",4.2,2500
+370,Tippling Street,"SR Garden, West Delhi",4.2,2400
+371,Pizza Hut,"HC Centre Vasant Vihar,Vasant Vihar, South Delhi",4.0,800
+372,Tandoori Hut - Tandoori Taste Redifined,RK South Delhi,5.0,300
+373,The Chai Story,SN West Delhi,4.3,700
+374,Bintang Sweet Thrills,"TR Garden, West Delhi",5.0,400
+375,Nando's,"NP Bagh, West Delhi",4.5,1800
+376,Wok in the Clouds,"CB Dutta Market,Rajouri Garden, West Delhi",4.2,2200
+377,Raftaar - The High Speed Bar and Lounge,"LP Bagh, West Delhi",4.0,2000
+378,P,"PC Vihar, South Delhi",4.2,3200
+379,Papa,"PJ & SonsPaschim Vihar, West Delhi",4.1,900
+380,Courtyard By Maini's Green Leaf,"LP Mall,Sahibabad, Ghaziabad",4.2,1100
+381,Talli Station,"SR Garden, West Delhi",4.1,1500
+382,The Yellow Chilli,"CP Mall,Sahibabad, Ghaziabad",4.1,1100
+383,Nori,"NP Bagh, West Delhi",4.7,1500
+384,Wok in the Clouds,"CP Bagh, West Delhi",4.0,2200
+385,Sardar-,"SJ CoffeeMalviya Nagar, South Delhi",4.4,600
+386,The Waffle Co.,"CS Bagh, North Delhi",4.1,400
+387,TEO - Lounge & Bar,"BP Bagh, West Delhi",4.1,2200
+388,Roll Mad By 34 Chowringhee Lane,"LR Bagh, North Delhi",4.0,200
+389,Sura Vie,"VP Bagh, West Delhi",4.2,1800
+390,Imly,"IR Garden, West Delhi",4.0,800
+391,Boombox Cafe,"CR Garden, West Delhi",4.0,2500
+392,Cartoony Planet,"PP Bagh, West Delhi",4.2,1400
+393,The Dine Room,"RP Bagh, West Delhi",4.1,1500
+394,Qubitos - The Terrace Cafe,"CR Garden, West Delhi",4.0,2000
+395,Biryani Blues,"BC Market,Malviya Nagar, South Delhi",4.4,700
+396,The Backyard,"BP Bagh, West Delhi",4.3,1500
+397,Empress Delhi,"DR Garden, West Delhi",4.1,1000
+398,Whiz Cafe,"CG Kailash - 2, South Delhi",4.0,800
+399,Lucknow Central - Kebabs And Curries,"CC Park, South Delhi",5.0,600
+400,Flavors Of Chennai,"CC Market,Malviya Nagar, South Delhi",4.3,400
+401,Beliram Degchiwala,"DC Market,Malviya Nagar, South Delhi",4.3,1100
+402,Cafe Rendezvous,"RC Market,Malviya Nagar, South Delhi",4.1,2000
+403,Ocean Blue,"BH Blue Stone,Kaushambi, Ghaziabad",4.8,1200
+404,Pizza Hut,"HC Market,Malviya Nagar, South Delhi",4.3,800
+405,Maini's Green Leaf,"LK Metro Station,Kaushambi, Ghaziabad",4.2,1000
+406,Anna Ka Dosa,DK South Delhi,5.0,300
+407,Little Chef,CK South Delhi,4.0,600
+408,Da Pizza Makers,"MQ Institutional Area, South Delhi",5.0,600
+409,Mughal Darbar Restaurant,"RP Bagh, West Delhi",4.2,800
+410,Momo Nation Cafe,"CT Garden, West Delhi",4.0,400
+411,Rooftop – The View,"VR Blu,Kaushambi, Ghaziabad",4.2,2800
+412,Lawn Bistro,"BS 15 A, Noida",4.3,3000
+413,Tandoori Brothers,"BM Nagar, South Delhi",5.0,800
+414,Panky's Pastry Shop,"SS Nagar, West Delhi",4.7,400
+415,Stop My Starvation,"SC Market,Malviya Nagar, South Delhi",4.0,400
+416,Bunty Dhaba,"DC Park, South Delhi",4.5,600
+417,THE G,"GO FOOD CAFEPankaj Arcade,Pitampura, North Delhi",4.2,900
+418,Tiffynn,"TV Enclave, East Delhi",4.5,400
+419,Naivedyam,NK South Delhi,4.3,600
+420,Waves,WA South Delhi,4.3,1600
+421,Oh! Calcutta,"CG Kailash - 2, South Delhi",4.4,1200
+422,SGF - Spice Grill Flame,"FP Bagh, West Delhi",4.0,500
+423,Khidmat,KK South Delhi,4.2,1100
+424,Kitchen Klub Bar Restaurant,"RM Phase - 2, West Delhi",4.1,1600
+425,Berco's,"BP City Centre,Pitampura, North Delhi",4.3,1300
+426,Banana Leaves,"LV Sunrise Plaza,Vasundhara Enclave, East Delhi",4.0,300
+427,Gaon,"GM Nagar, South Delhi",4.0,800
+428,My Spice Kitchen,"KC Park, South Delhi",4.0,1000
+429,Nikke Tikke,TK South Delhi,4.0,1000
+430,Kake Da Hotel,"HC Park, South Delhi",4.4,800
+431,Food Uncensored,"US Sarai, South Delhi",5.0,400
+432,Munchies Midnight Delivery,"DV Sunrise Plaza,Vasundhara Enclave, East Delhi",4.5,600
+433,Burger Singh - Big Punjabi Burgers,BK South Delhi,4.4,400
+434,Southy,SA South Delhi,4.0,500
+435,Chateau de Pondichery,PA South Delhi,4.4,2000
+436,Wendy's,WK South Delhi,4.0,500
+437,Emoi,"EP Mall,Tagore Garden, West Delhi",5.0,200
+438,Catalyst Cafe,"CS Nagar, Ghaziabad",4.0,600
+439,Chungwa,"CG Kailash - 2, South Delhi",4.3,1200
+440,Biryani Blues,BK South Delhi,4.3,700
+441,Truffle Story,"SC Park, South Delhi",4.8,500
+442,Barbeque Nation,"NS Suites,Sector 16, Noida",4.5,1900
+443,You Mee,"MG Kailash - 2, South Delhi",4.6,1500
+444,Oodles Noodles,"NM Nagar, South Delhi",4.5,1200
+445,Coffee Cafe 9,"9M Nagar, South Delhi",4.7,700
+446,Punjab Grill,"GP Mall,Tagore Garden, West Delhi",4.1,2200
+447,Cafe Delhi Heights,"HP Mall,Tagore Garden, West Delhi",4.4,1300
+448,The Belgian Fries Company,"CP Mall,Tagore Garden, West Delhi",4.7,500
+449,Kake Da Hotel,"HM Nagar, South Delhi",4.0,800
+450,Kiara - Soul Kitchen,"KG Kailash - 2, South Delhi",4.4,1800
+451,La Casa The Home,"HS Bagh, North Delhi",5.0,400
+452,Mensho Tokyo,"TG Kailash - 2, South Delhi",4.5,1500
+453,The Himalayan Kitchen,"KM Block Market,Greater Kailash - 2, South Delhi",4.3,1300
+454,Tikka Junction,"JM Nagar, South Delhi",4.2,800
+455,Shibuya Food & Bar,"BG Kailash - 2, South Delhi",4.4,1800
+456,Pizza Hut,"HP Mall,Tagore Garden, West Delhi",4.3,800
+457,Tossin Pizza,"PM Block Market,Greater Kailash - 2, South Delhi",4.3,800
+458,Subway,"SP Mall,Tagore Garden, West Delhi",4.3,500
+459,Wow! Momo,"MM Nagar, South Delhi",4.0,400
+460,Big Fat Sandwich and Pizza,"PM Block Market,Greater Kailash - 2, South Delhi",4.3,900
+461,Laidback Cafe,"CG Kailash - 2, South Delhi",4.3,1800
+462,Mad Over Donuts,"DP Mall,Tagore Garden, West Delhi",4.3,500
+463,Pizza Hut,"HD Building,Dilshad Garden, East Delhi",4.4,800
+464,In The Punjab,"PM Block Market,Greater Kailash - 2, South Delhi",4.4,3000
+465,Diva - The Italian,"IG Kailash - 2, South Delhi",4.0,2200
+466,Cafe Green,"GC Park, South Delhi",4.1,800
+467,Dunkin' Donuts,"DP Mall,Tagore Garden, West Delhi",4.1,400
+468,Cafe Platonic,"PS Niketan, South Delhi",4.0,1200
+469,Laidback Cafe,"CD Avenue,Saket, South Delhi",4.5,2200
+470,Cosme Restaurant Lounge,"LH Royal Castle Grand,Chittaranjan Park, South Delhi",4.0,800
+471,Sattvik,"SS Citywalk Mall,Saket, South Delhi",4.4,2000
+472,Burma Burma,"BS Citywalk Mall,Saket, South Delhi",4.7,1500
+473,Berco's,"BM Metropolitan Mall,Saket, South Delhi",4.3,1300
+474,Jom Jom Malay,"MS Citywalk Mall,Saket, South Delhi",4.5,1500
+475,Excuse Me Boss,"BM Metropolitan Mall,Saket, South Delhi",4.3,2200
+476,Cake Walkers,"WK Nagar, West Delhi",5.0,600
+477,Baba Rolls,"RS Citywalk Mall,Saket, South Delhi",4.3,600
+478,Pizza Hut,"HO Phase - 2, South Delhi",5.0,800
+479,Bread Talk,"TS Citywalk Mall,Saket, South Delhi",4.4,800
+480,Mohit Sweets And Family Restaurant,RV Ghaziabad,5.0,500
+481,6,"64 Inn and Suites By Radisson-Sahibabad,Sahibabad, Ghaziabad",4.6,4500
+482,Chhoti Haveli,"HJ Road, West Delhi",4.1,800
+483,Mamagoto,"MS Citywalk Mall,Saket, South Delhi",4.4,1500
+484,FIO P,"PO Avenue,Saket, South Delhi",4.4,1500
+485,Taco Bell,"BS Citywalk Mall,Saket, South Delhi",4.1,500
+486,Punjab Grill,"GS Citywalk Mall,Saket, South Delhi",4.1,1600
+487,Tangerine,"TM Sarovar Portico,Vaishali, Ghaziabad",4.2,1500
+488,Joy Luck Moon,"MS Citywalk Mall,Saket, South Delhi",4.3,1800
+489,Kesar,"KA Chambers,Pitampura, North Delhi",4.4,800
+490,Mad Over Donuts,"DM Metro Mall,Vaishali, Ghaziabad",4.2,500
+491,MAI B,"BA Avenue,Saket, South Delhi",4.3,1300
+492,Cafe Delhi Heights,"HD Avenue,Saket, South Delhi",4.3,1300
+493,Mahabelly,"MD Avenue,Saket, South Delhi",4.6,1200
+494,Dhaba Estd 1,"19 DelhiDLF Avenue,Saket, South Delhi",4.4,2000
+495,Wow! Momo,"MS Citywalk Mall,Saket, South Delhi",4.2,400
+496,Chili's American Grill and Bar,"BD Avenue,Saket, South Delhi",4.3,1300
+497,Ping's Cafe Orient,"OD Avenue,Saket, South Delhi",4.2,1800
+498,Smoke House Deli,"DD Avenue,Saket, South Delhi",4.3,1500
+499,Q,QL South Delhi,4.2,3200
